@@ -8,7 +8,7 @@ Created on Sun Oct 27 17:51:49 2024
 """
 ###############################################
 ##Title             : analysis_plantacolor_main.py
-##Description       : Main script for TerraLight project
+##Description       : Main analysis for Plantacolor project
 ##Author            : John Bigeon   @ Github
 ##Date              : 20240323
 ##Version           : Test with
