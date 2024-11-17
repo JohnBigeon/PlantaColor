@@ -27,10 +27,12 @@ Where a healty/stressed plant returns respectively +1/-1.
 - Neopixelring 35 led out/in diameer 96mm, 78mm
 
 ### Wiring
+```
 ESP32 <---> LED
-5V      - 5V
-GND     - GND
-DIN     - GPIO9
+5V      -   5V
+GND     -   GND
+DIN     -   GPIO9
+```
 
 ## Script
 ### ESP32
