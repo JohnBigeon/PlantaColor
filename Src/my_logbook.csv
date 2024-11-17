@@ -1,0 +1,13 @@
+﻿#Log_file,#Type
+Data\logfile_stepping_2024-11-11_170818.log,background 1
+Data\logfile_stepping_2024-11-11_171201.log,1: Green low
+Data\logfile_stepping_2024-11-11_170818.log,background 2
+Data\logfile_stepping_2024-11-11_171419.log,2: Green high
+Data\logfile_stepping_2024-11-11_170818.log,background 3
+Data\logfile_stepping_2024-11-11_171719.log,3: Orange low
+Data\logfile_stepping_2024-11-11_170818.log,background 4
+Data\logfile_stepping_2024-11-11_171924.log,4: Orange high
+Data\logfile_stepping_2024-11-11_170818.log,background 5
+Data\logfile_stepping_2024-11-11_172205.log,5: Red low
+Data\logfile_stepping_2024-11-11_170818.log,background 6
+Data\logfile_stepping_2024-11-11_172409.log,6: Red double
