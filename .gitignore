@@ -1,0 +1,6 @@
+Src/Data/
+Src/Debug/
+Src/Log/
+Src/Results/
+Obsolete/
+Src/Lib_local/__pycache__
